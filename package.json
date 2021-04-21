@@ -1,5 +1,5 @@
 {
-  "name": "@Homemadestea58/projecter",
+  "name": "@homemadestea58/projecter",
   "version": "1.0.0",
   "description": "A CLI to boostrap new projects",
   "main": "src/index.js",
